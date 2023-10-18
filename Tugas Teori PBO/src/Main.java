@@ -23,7 +23,7 @@ public class Main {
         System.out.println("Pembagian   : " + pecahan1 + " : " + pecahan2 + " = " + hasilBagi);
         System.out.println();
 
-        System.out.println("MATERI PECAHAN MATRIX");
+        System.out.println("MATERI PECAHAN MATRIKS");
         Pecahan p1 = new Pecahan(6, 9);
         Pecahan p2 = new Pecahan(3, 5);
         Pecahan p3 = new Pecahan(7, 8);
